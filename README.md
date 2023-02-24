@@ -1,4 +1,4 @@
-# CSGO_SneakyKitty
+# CSGO_10MG_Cheat
 Third remake of my totally original CSGO external hacks, old name AKA CSGO_Cat_Sucker  
 IDE: Visual Studio  22
 SDK: Windows SDK  
